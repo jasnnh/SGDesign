@@ -6,3 +6,5 @@ over the years this game has evolved from a lot of stages. The game first starte
 the PSP RAM was not enough for a big Multiplayer project. Eventually the project moved over to Love2D a windows Lua engine that could handle a bigger task. Love2D down the road
 had been ported to Mobile by members of it's community and this is what i currently have left of the project as my Harddrive eventually died leaving no files besides the site and
 preview video of the project.
+
+This project was mainly coded in Lua, the server was coded in VB6 (Visual Basic 6) using Winsocket for the server and Luasocket for the client.
