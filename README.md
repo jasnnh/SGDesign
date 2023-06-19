@@ -10,3 +10,5 @@ preview video of the project.
 This project was mainly coded in Lua, the server was coded in VB6 (Visual Basic 6) using Winsocket for the server and Luasocket for the client.
 
 Take a look at Design.png file to see how the page looks like.
+
+![Screenshot](https://github.com/jasnnh/SGDesign/blob/master/design.PNG)
